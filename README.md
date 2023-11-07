@@ -1,9 +1,6 @@
 
 ## <p align="center">Hello, i am Arthur Aguiar. 🚀
 
-<div  align="center" style="margin-bottom:70px">
-<img width=55% align="center"  src='https://github-readme-stats.vercel.app/api?username=imthur&theme=nightowl&show_icons=true&hide_border=true&count_private=true'/>
-<br>
 <br>
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imthur&theme=nightowl&hide_border=true" />
 <br>
