@@ -1,6 +1,7 @@
 
 ## <p align="center">Hello, i am Arthur Aguiar. 🚀
 
+<div style="margin-bottom:70px">
 <br>
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imthur&theme=nightowl&hide_border=true" />
 <br>
