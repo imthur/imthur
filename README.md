@@ -9,7 +9,7 @@
 <img width=55% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthur&theme=nightowl&show_icons=true&hide_border=true&layout=compact" />
 </div>
  
-### Studying in this moment:
+### Studying at this moment:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
