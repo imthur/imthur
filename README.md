@@ -1,8 +1,8 @@
-👋 Olá, eu sou o Arthur Aguiar!
+# 👋 Olá, eu sou Arthur Aguiar!
 
-🚀 Desenvolvedor Full Stack & Entusiasta de Dados
+**Desenvolvedor Back-end | Analista de Dados | Aspirante a Full-Stack**
 
-Tenho 23 anos e sou apaixonado por transformar ideias em soluções digitais.
+Com 23 anos, sou um **desenvolvedor backend** que atualmente trabalha com análise de dados. Descobri minha paixão em construir sistemas robustos e escaláveis, e estou em transição ativa para oportunidades como **Desenvolvedor Backend ou Full-Stack**.
 <br>
 
 # 🛠️ Tech Stack
@@ -14,6 +14,7 @@ Tenho 23 anos e sou apaixonado por transformar ideias em soluções digitais.
 ![JavaScript](https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🗃️ Bancos de Dados & Ferramentas
 
@@ -21,7 +22,6 @@ Tenho 23 anos e sou apaixonado por transformar ideias em soluções digitais.
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-%2543B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🌟 Projetos em Destaque
 
