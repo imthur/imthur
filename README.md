@@ -31,8 +31,9 @@ Scripts em Python para automação de tarefas repetitivas, incluindo web scrapin
 ### • <a href="https://github.com/imthur/Learning-Log" target="_blank">Sistema de Gestão em Django</a><br>
 Aplicação web completa com CRUD, autenticação e integração com banco de dados.
 
-### • Análise de Dados com Python
-Projetos de análise exploratória e visualização de dados usando Pandas.
+### • <a href="https://github.com/imthur/ToDoList" target="_blank">Gestor de Tarefas com Django e Django REST Framework</a><br>
+Sistema de gestão de tarefas com API RESTful, com frontend integrado com JavaScript vanilla.
+
 
 ## 📊 Estatísticas do GitHub
 
