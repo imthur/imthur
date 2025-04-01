@@ -4,7 +4,11 @@
 
 <br>
 
-**Desenvolvedor Back-end | Analista de Dados | Aspirante a Full-Stack**
+<div align="center"> 
+
+**Desenvolvedor Back-end | Analista de Dados | Aspirante a Full-Stack** 
+
+</div>
 
 Com 23 anos, sou um **desenvolvedor de Software** que atualmente trabalha com análise de dados. Desde a minha infância sonhei em trabalhar com tecnologia, caminhei por várias áreas de T.I até descobrir minha paixão: construir soluções por meio dos sistemas. Estou em transição ativa para oportunidades como **Desenvolvedor Backend ou Full-Stack**.
 <br>
