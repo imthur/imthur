@@ -55,10 +55,8 @@ Sistema de gestão de tarefas com API RESTful, com frontend integrado com JavaSc
 <div>
   <a href="mailto:arthuraguiardev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
   <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arthuraguiar8708" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </div>
 
 <br>
