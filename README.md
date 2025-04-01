@@ -1,26 +1,29 @@
-# 👋 Olá, eu sou Arthur Aguiar!
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&theme=dark&animation=blinking&height=200&section=header&text=Arthur%20Aguiar&fontSize=90&desc=Back-end%20Software%20Developer&descSize=20&descAlignY=80" />
+</div>
+
+<br>
 
 **Desenvolvedor Back-end | Analista de Dados | Aspirante a Full-Stack**
 
 Com 23 anos, sou um **desenvolvedor de Software** que atualmente trabalha com análise de dados. Desde a minha infância sonhei em trabalhar com tecnologia, caminhei por várias áreas de T.I até descobrir minha paixão: construir soluções por meio dos sistemas. Estou em transição ativa para oportunidades como **Desenvolvedor Backend ou Full-Stack**.
 <br>
-# 🛠️ Tech Stack
 
 ## 💻 Linguagens & Frameworks
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-1E1E1E?style=for-the-badge&logo=python&logoColor=ffffff)
+![Django](https://img.shields.io/badge/django-1E1E1E?style=for-the-badge&logo=django&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=ffffff)
+![Java](https://img.shields.io/badge/java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/typescript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=ffffff)
 
 ## 🗃️ Bancos de Dados & Ferramentas
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-%2543B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-1E1E1E.svg?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/GIT-1E1E1E?style=for-the-badge&logo=git&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=ffffff)
+![Selenium](https://img.shields.io/badge/Selenium-1E1E1E?style=for-the-badge&logo=selenium&logoColor=ffffff)
 
 ## 🌟 Projetos em Destaque
 
@@ -36,11 +39,15 @@ Sistema de gestão de tarefas com API RESTful, com frontend integrado com JavaSc
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imthur&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthur&theme=transparent&hide_border=true&layout=compact" /> </div>
+<div align="center">
+  <img height="180px" width=48% src="https://github-readme-stats.vercel.app/api?username=imthur&show_icons=true&theme=dark&hide_border=true&hide_rank=true" />
+  <img height="180px" width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthur&theme=dark&hide_border=true&layout=compact" />
+</div>
+
 
 ## 📩 Contato
 
-<div> <a href="mailto:arthuraguiardev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"> </a> <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arthuraguiar8708" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/imthur" target="_blank">
+<div> <a href="mailto:arthuraguiardev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"> </a> <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arthuraguiar8708" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 <br>
 <br>
