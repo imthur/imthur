@@ -31,7 +31,7 @@ Com 23 anos, sou um **desenvolvedor de Software** que atualmente trabalha com an
 
 ## Projetos em Destaque
 
-### • Automação de Processos
+### • <a href="https://github.com/imthur/RPA-PowerBI-GESIG">Automação de Processos</a>
 Scripts em Python para automação de tarefas repetitivas, incluindo web scraping e manipulação de dados.
 
 ### • <a href="https://github.com/imthur/Learning-Log" target="_blank">Sistema de Gestão em Django</a><br>
