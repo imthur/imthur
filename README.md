@@ -21,6 +21,7 @@ Com 23 anos, sou um **desenvolvedor de Software** que atualmente trabalha com an
 ![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/typescript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/react-1E1E1E?style=for-the-badge&logo=react&logoColor=ffffff)
 
 ## Bancos de Dados & Ferramentas
 
@@ -49,7 +50,7 @@ Sistema de gestão de tarefas com API RESTful, com frontend integrado com JavaSc
   
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=imthur&theme=dark&bg_color=1E1E1E&title_color=ffffff&text_color=ffffff&hide_border=true&layout=compact&langs_count=8&card_width=445)](https://github.com/imthur)
 
-[![Streak](https://streak-stats.demolab.com?user=imthur&theme=dark&background=1E1E1E&border=1E1E1E&stroke=1E1E1E&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imthur&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 ## Contato
