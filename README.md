@@ -46,13 +46,10 @@ Sistema de gestão de tarefas com API RESTful, com frontend integrado com JavaSc
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=imthur&show_icons=true&theme=dark&bg_color=1E1E1E&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true&hide=commits&custom_title=Estatísticas+do+Perfil)](https://github.com/imthur)
-  
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=imthur&theme=dark&bg_color=1E1E1E&title_color=ffffff&text_color=ffffff&hide_border=true&layout=compact&langs_count=8&card_width=445)](https://github.com/imthur)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=imthur&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=imthur&theme=dark&bg_color=1E1E1E&title_color=ffffff&text_color=ffffff&hide_border=true&layout=compact&langs_count=8&card_width=445)](https://github.com/imthur)
 
 ## Contato
 
