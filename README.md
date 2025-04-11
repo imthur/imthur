@@ -19,6 +19,7 @@ Com 23 anos, sou um **desenvolvedor de Software** que atualmente trabalha com an
 ![Django](https://img.shields.io/badge/django-1E1E1E?style=for-the-badge&logo=django&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/javascript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/java-1E1E1E?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/typescript-1E1E1E?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/react-1E1E1E?style=for-the-badge&logo=react&logoColor=ffffff)
