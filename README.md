@@ -120,8 +120,6 @@ Também tenho trabalhado em projetos menores para praticar fundamentos específi
 - **ToDo React** — app em React para tarefas, filtros, busca, categorias e organização de estado.
 - **Automações e dados** — estudos com Python, scraping, transformação de dados e dashboards.
 
-Nem todo projeto precisa virar vitrine pública imediatamente. Alguns eu prefiro manter privado enquanto organizo código, documentação e deploy do jeito certo.
-
 ---
 
 ## Como eu penso software
