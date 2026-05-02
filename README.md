@@ -135,8 +135,8 @@ Gosto de software com cara de coisa que alguém usaria. Não precisa ser gigante
 ## Um pouco do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imthur&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthur&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imthur&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imthur&theme=github_dark" />
 </p>
 
 ---
