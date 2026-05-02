@@ -21,13 +21,13 @@
 
 ## Oi. Eu sou o Arthur.
 
-Eu gosto de construir sistemas que têm alguma regra de verdade por trás.
+## Oi, eu sou o Arthur Aguiar.
 
-Não me prende muito projeto que é só tela bonita com dados fake. Eu gosto quando a aplicação precisa lidar com fluxo, permissão, validação, estado, banco de dados, API, deploy, erro em produção — esse tipo de coisa que força o código a sair do tutorial e virar software.
+Sou desenvolvedor de software com foco em back-end e construção de aplicações web com regras de negócio, persistência de dados, autenticação, APIs e integração com interfaces modernas.
 
-Hoje meu foco principal é **back-end com Python, Django e Django REST Framework**, mas eu também gosto de fechar o ciclo quando o projeto pede front-end, integração, automação ou um pouco mais de cuidado visual.
+Tenho experiência prática com Python, Django, JavaScript, TypeScript e React, desenvolvendo projetos que envolvem modelagem de dados, validações, controle de permissões, consumo de APIs, deploy e organização de código.
 
-Minha base em **análise de dados** aparece bastante no jeito que eu penso software: modelagem, consistência, leitura de fluxo, organização da informação e decisões que não quebram tudo duas semanas depois.
+Atualmente venho aprofundando meus estudos e projetos em desenvolvimento full-stack, com foco em criar aplicações mais estruturadas, escaláveis e próximas de cenários reais de uso.
 
 ---
 
