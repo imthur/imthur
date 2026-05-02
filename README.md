@@ -19,8 +19,6 @@
 
 ---
 
-## Oi. Eu sou o Arthur.
-
 ## Oi, eu sou o Arthur Aguiar.
 
 Sou desenvolvedor de software com foco em back-end e construção de aplicações web com regras de negócio, persistência de dados, autenticação, APIs e integração com interfaces modernas.
