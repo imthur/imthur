@@ -118,9 +118,7 @@ I also work on smaller projects to practice specific fundamentals:
 - **Controle Financeiro** — Django app for transactions, income, expenses, dashboard, API and report exports.
 - **Learning Log** — Django app for tracking study topics, notes and per-user access.
 - **ToDo React** — React task app with filters, search, categories and state organization.
-- **Automation and data** — Python studies involving scraping, data transformation and dashboards.
-
-Not every project needs to become a public showcase immediately. Some of them stay private while I clean up code, documentation and deployment properly.
+- **Automation and data** — Python studies involving scraping, data transformation and dashboards
 
 ---
 
@@ -137,8 +135,8 @@ I like software that feels like something someone would actually use. It does no
 ## A bit of GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imthur&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthur&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&layout=compact&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imthur&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imthur&theme=github_dark" />
 </p>
 
 ---
