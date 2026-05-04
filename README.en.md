@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nexa-dev-xdt9.onrender.com/"><img src="https://img.shields.io/badge/NEXA-live%20dev-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
+  <a href="https://leafo.arthuraguiar.site"><img src="https://img.shields.io/badge/Leafo-live%20dev-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
   <a href="https://viniciuslucas.netlify.app"><img src="https://img.shields.io/badge/Vinicius%20Lucas-live-1E1E1E?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
 
@@ -75,14 +75,14 @@ My background in **data analysis** influences the way I think about software: mo
 
 ## Projects that say more about me
 
-### NEXA
+### Leafo
 
 A management system I am developing to simulate a more realistic internal business application: employees, absences, payroll, payslips, company settings, permissions and audit logs.
 
 This is the project where I have been training the back-end work I enjoy most: business rules, REST APIs, role-based access, validation, databases, operational commands, deployment and maintainable structure.
 
 <p>
-  <a href="https://nexa-dev-xdt9.onrender.com/"><img src="https://img.shields.io/badge/Open%20NEXA-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
+  <a href="https://leafo.arthuraguiar.site"><img src="https://img.shields.io/badge/Open%20Leafo-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=white)
