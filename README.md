@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nexa-dev-xdt9.onrender.com/"><img src="https://img.shields.io/badge/NEXA-live%20dev-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
+  <a href="https://leafo.arthuraguiar.site"><img src="https://img.shields.io/badge/Leafo-live%20dev-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
   <a href="https://viniciuslucas.netlify.app"><img src="https://img.shields.io/badge/Vinicius%20Lucas-live-1E1E1E?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
 
@@ -73,14 +73,14 @@ Atualmente venho aprofundando meus estudos e projetos em desenvolvimento full-st
 
 ## Projetos que dizem mais sobre mim
 
-### NEXA
+### Leafo
 
 Sistema de gestão que estou desenvolvendo para simular um ambiente mais real de aplicação interna: colaboradores, faltas, folha de pagamento, contracheques, configurações da empresa, permissões e auditoria.
 
 Esse é o projeto onde eu mais venho treinando o lado que gosto de back-end: regra de negócio, API REST, controle por perfil, validação, banco de dados, comandos operacionais, deploy e organização para manutenção.
 
 <p>
-  <a href="https://nexa-dev-xdt9.onrender.com/"><img src="https://img.shields.io/badge/Abrir%20NEXA-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
+  <a href="https://leafo.arthuraguiar.site"><img src="https://img.shields.io/badge/Abrir%20Leafo-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=white)
@@ -110,8 +110,6 @@ Esse projeto mostra outro lado do que eu gosto de fazer: front-end com intençã
 ---
 
 ### Outros projetos e estudos
-
-Também tenho trabalhado em projetos menores para praticar fundamentos específicos:
 
 - **Controle Financeiro** — aplicação Django para transações, receitas, despesas, dashboard, API e exportação de relatórios.
 - **Learning Log** — aplicação Django para registrar tópicos de estudo, anotações e acesso por usuário.
