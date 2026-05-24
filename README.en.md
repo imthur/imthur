@@ -76,9 +76,9 @@ My background in **data analysis** influences the way I think about software: mo
 
 ### Unifica Gestão
 
-HR and payroll system I am developing to simulate a real internal business application: employees, departments, documents, payroll, payslips, vacation, termination, employee self-service portal, multi-tenant and audit logs.
+HR and payroll SaaS for small and mid-sized Brazilian companies. Replaces accounting offices and multiple point tools with a single platform: payroll with real Brazilian labor law (progressive INSS, legal add-ons, employer contributions), 13th salary, full vacation module, 6-type termination flow, employee self-service portal, document management with expiration alerts, schema-per-tenant multi-tenancy and full audit trail.
 
-This is the project where I have been training the back-end work I enjoy most: complex business rules (real Brazilian labor law, progressive INSS calculation, 6 types of termination), REST APIs, role-based access, validation, databases, operational commands, deployment and maintainable structure.
+An active product being built to go to market. The calculation depth is above industry standard: real progressive tax tables, proportional notice period (Lei 12.506/11), 484-A agreement, TST Precedent 449, and itemized employer costs on every payslip.
 
 <p>
   <a href="https://dev.unificagestao.com"><img src="https://img.shields.io/badge/Open%20Unifica%20Gestão-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>

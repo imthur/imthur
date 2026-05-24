@@ -74,9 +74,9 @@ Atualmente venho aprofundando meus estudos e projetos em desenvolvimento full-st
 
 ### Unifica Gestão
 
-Sistema de RH e folha de pagamento que estou desenvolvendo para simular um ambiente real de aplicação interna: colaboradores, departamentos, documentos, folha de pagamento, contracheques, férias, rescisão, portal do colaborador, multi-tenant e auditoria.
+Sistema de RH e DP SaaS para pequenas e médias empresas brasileiras. Substitui escritório contábil e ferramentas separadas com uma plataforma única: folha de pagamento com CLT real (INSS progressivo, adicionais legais, encargos patronais), 13º, férias completas, rescisão com 6 tipos, portal do colaborador com self-service, documentos com alertas de vencimento, multi-tenant com isolamento por schema e auditoria completa.
 
-Esse é o projeto onde eu mais venho treinando o lado que gosto de back-end: regra de negócio complexa (CLT real, INSS progressivo, rescisão com 6 tipos), API REST, controle por perfil, validação, banco de dados, comandos operacionais, deploy e organização para manutenção.
+É um produto em desenvolvimento ativo, construído para ser vendido. A profundidade de cálculo está acima da média do mercado: tabela progressiva real, aviso proporcional Lei 12.506/11, acordo 484-A, Súmula 449/TST, FGTS Digital e encargos discriminados na folha.
 
 <p>
   <a href="https://dev.unificagestao.com"><img src="https://img.shields.io/badge/Abrir%20Unifica%20Gestão-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
