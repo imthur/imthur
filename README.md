@@ -1,8 +1,8 @@
 <h1 align="center">Arthur Aguiar</h1>
 
 <p align="center">
-  <strong>Back-end / Fullstack Developer</strong><br />
-  Recife, Brazil · 24 years old · Software Analysis and Development student
+  <strong>Desenvolvedor Backend / Fullstack</strong><br />
+  Recife, Brasil · 24 anos · Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
