@@ -13,8 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leafo.arthuraguiar.site"><img src="https://img.shields.io/badge/Leafo-live%20dev-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
-  <a href="https://viniciuslucas.netlify.app"><img src="https://img.shields.io/badge/Vinicius%20Lucas-live-1E1E1E?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://dev.unificagestao.com"><img src="https://img.shields.io/badge/Unifica%20Gestão-live%20dev-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
 </p>
 
 ---
@@ -73,14 +72,14 @@ Atualmente venho aprofundando meus estudos e projetos em desenvolvimento full-st
 
 ## Projetos que dizem mais sobre mim
 
-### Leafo
+### Unifica Gestão
 
-Sistema de gestão que estou desenvolvendo para simular um ambiente mais real de aplicação interna: colaboradores, faltas, folha de pagamento, contracheques, configurações da empresa, permissões e auditoria.
+Sistema de RH e folha de pagamento que estou desenvolvendo para simular um ambiente real de aplicação interna: colaboradores, departamentos, documentos, folha de pagamento, contracheques, férias, rescisão, portal do colaborador, multi-tenant e auditoria.
 
-Esse é o projeto onde eu mais venho treinando o lado que gosto de back-end: regra de negócio, API REST, controle por perfil, validação, banco de dados, comandos operacionais, deploy e organização para manutenção.
+Esse é o projeto onde eu mais venho treinando o lado que gosto de back-end: regra de negócio complexa (CLT real, INSS progressivo, rescisão com 6 tipos), API REST, controle por perfil, validação, banco de dados, comandos operacionais, deploy e organização para manutenção.
 
 <p>
-  <a href="https://leafo.arthuraguiar.site"><img src="https://img.shields.io/badge/Abrir%20Leafo-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
+  <a href="https://dev.unificagestao.com"><img src="https://img.shields.io/badge/Abrir%20Unifica%20Gestão-1E1E1E?style=for-the-badge&logo=render&logoColor=white" /></a>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=white)
@@ -88,24 +87,6 @@ Esse é o projeto onde eu mais venho treinando o lado que gosto de back-end: reg
 ![Django REST](https://img.shields.io/badge/DRF-1E1E1E?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat-square&logo=postgresql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-1E1E1E?style=flat-square&logo=render&logoColor=white)
-
----
-
-### Vinicius Lucas Portfolio
-
-Portfólio audiovisual criado para ter presença visual de verdade, não só uma página estática com cards iguais. A ideia foi trabalhar identidade, movimento e clima: estética Manguebeat Brutalista, animações, player customizado e uma experiência mais cinematográfica.
-
-Esse projeto mostra outro lado do que eu gosto de fazer: front-end com intenção visual, React bem organizado, animação sem exagero gratuito e atenção ao resultado final.
-
-<p>
-  <a href="https://viniciuslucas.netlify.app"><img src="https://img.shields.io/badge/Abrir%20portfolio-1E1E1E?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-</p>
-
-![React](https://img.shields.io/badge/React-1E1E1E?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-1E1E1E?style=flat-square&logo=vite&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-1E1E1E?style=flat-square&logo=greensock&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS%20Modules-1E1E1E?style=flat-square&logo=cssmodules&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-1E1E1E?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
