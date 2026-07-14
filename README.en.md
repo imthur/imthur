@@ -37,6 +37,20 @@ i aim to build systems with purpose that make sense in the real world.
 
 ---
 
+## stack
+
+```
+back-end      python · django · drf · flask · fastapi · node.js
+applied ai    gemini · rag · agents · embeddings · semantic cache · prompt eng.
+data          postgresql · mysql · sqlite · redis · pandas · bigdata-pe · power bi
+automation    selenium · pyautogui · rpa · celery · web scraping
+cloud/deploy  gcp · oracle cloud · nginx · gunicorn · docker · systemd · certbot
+tooling       git · github actions · pytest · httpx · vercel · render
+front         react · vite · typescript · html5 · css3
+```
+
+---
+
 ## shipping
 
 ### unifica gestão
@@ -97,20 +111,6 @@ bi dashboards and internal news for the division.
 technical client and product analyst on the new suporte compras
 system, alongside ati-pe: conceiving, writing user stories,
 homologating deliveries and validating in agile ceremonies.
-```
-
----
-
-## stack
-
-```
-back-end      python · django · drf · flask · fastapi · node.js
-applied ai    gemini · rag · agents · embeddings · semantic cache · prompt eng.
-data          postgresql · mysql · sqlite · redis · pandas · bigdata-pe · power bi
-automation    selenium · pyautogui · rpa · celery · web scraping
-cloud/deploy  gcp · oracle cloud · nginx · gunicorn · docker · systemd · certbot
-tooling       git · github actions · pytest · httpx · vercel · render
-front         react · vite · typescript · html5 · css3
 ```
 
 ---
