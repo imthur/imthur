@@ -2,7 +2,7 @@
 
 back-end python · ia aplicada · automação · recife/br
 
-[unifica gestão](https://dev.unificagestao.com) · [linkedin](https://linkedin.com/in/arthuraguiar8708) · [github](https://github.com/imthur) · <arthuraguiardev@gmail.com>
+[unifica gestão](https://unificagestao.com) · [linkedin](https://linkedin.com/in/arthuraguiar8708) · [github](https://github.com/imthur) · <arthuraguiardev@gmail.com>
 
 [read in english →](./README.en.md)
 
