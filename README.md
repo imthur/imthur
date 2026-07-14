@@ -36,6 +36,20 @@ busco construir sistemas com propósito e que façam sentido no mundo real.
 
 ---
 
+## stack
+
+```
+back-end      python · django · drf · flask · fastapi · node.js
+ai applied    gemini · rag · agents · embeddings · semantic cache · prompt eng.
+data          postgresql · mysql · sqlite · redis · pandas · bigdata-pe · power bi
+automation    selenium · pyautogui · rpa · celery · web scraping
+cloud/deploy  gcp · oracle cloud · nginx · gunicorn · docker · systemd · certbot
+tooling       git · github actions · pytest · httpx · vercel · render
+front         react · vite · typescript · html5 · css3
+```
+
+---
+
 ## projetos ativos
 
 ### unifica gestão
@@ -94,20 +108,6 @@ de bi e comunicações da gerência.
 cliente técnico e product analyst do novo sistema suporte compras,
 junto à ati-pe: idealização, escrita de HUs, homologação de entregas e
 validação em cerimônias ágeis.
-```
-
----
-
-## stack
-
-```
-back-end      python · django · drf · flask · fastapi · node.js
-ai applied    gemini · rag · agents · embeddings · semantic cache · prompt eng.
-data          postgresql · mysql · sqlite · redis · pandas · bigdata-pe · power bi
-automation    selenium · pyautogui · rpa · celery · web scraping
-cloud/deploy  gcp · oracle cloud · nginx · gunicorn · docker · systemd · certbot
-tooling       git · github actions · pytest · httpx · vercel · render
-front         react · vite · typescript · html5 · css3
 ```
 
 ---
